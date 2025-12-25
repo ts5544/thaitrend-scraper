@@ -1,0 +1,5 @@
+{
+  "name": "ThaiTrend - News Keyword Scraper",
+  "description": "A real-time dashboard that analyzes Thailand's top news websites using AI to extract the top 3 trending keywords. Includes a Python script generator for Termux users.",
+  "requestFramePermissions": []
+}
